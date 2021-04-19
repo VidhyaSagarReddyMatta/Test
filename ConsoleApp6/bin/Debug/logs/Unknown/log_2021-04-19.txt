@@ -1,0 +1,12 @@
+2021-04-19|11:07:21.6116|Information|nv-BPJ5YuBV8kf0VbcSJVEc||
+2021-04-19|11:07:21.8236|Information|https://api.nerd.vision/nvcr/v1/registration/client||
+2021-04-19|11:07:25.8363|Debug|sessionId = b2a0345e-d9dd-4f90-9e69-dd1f68467673||
+2021-04-19|11:07:25.8728|Information|Connect to url:api.nerd.vision, port:443||
+2021-04-19|11:13:08.6223|Information|nv-BPJ5YuBV8kf0VbcSJVEc||
+2021-04-19|11:13:08.9079|Information|https://api.nerd.vision/nvcr/v1/registration/client||
+2021-04-19|11:13:11.2869|Debug|sessionId = d9972e25-b57d-450d-b6fb-d7080c9c7c68||
+2021-04-19|11:13:11.3195|Information|Connect to url:api.nerd.vision, port:443||
+2021-04-19|11:23:12.7617|Information|nv-BPJ5YuBV8kf0VbcSJVEc||
+2021-04-19|11:23:12.8915|Information|https://api.nerd.vision/nvcr/v1/registration/client||
+2021-04-19|11:23:14.4666|Debug|sessionId = b2c75fa9-ec31-4493-a193-c64ad09f8ba9||
+2021-04-19|11:23:14.4691|Information|Connect to url:api.nerd.vision, port:443||
